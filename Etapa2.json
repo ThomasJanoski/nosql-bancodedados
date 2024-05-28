@@ -1,0 +1,42 @@
+{
+    "users": [
+       {
+        "nome": "João Grilo",
+        "endereco": "Rua Suassuna, 30, João Pessoa, PB",
+        "emails": [
+            "grilo@mail.com", "joaog@mk.com"
+        ],
+        "cargo": "Contador",
+        "jornada": 40,
+        "salario": 3000
+       },
+       {
+        "nome": "Ada Byron",
+        "endereco": "Rua Lovelace, 67, London",
+        "emails": [
+            "ada@mail.com", "abyron@tech.com"
+        ],
+        "cargo": "Developer",
+        "jornada": 20,
+        "salario": 15000
+       },
+       {
+        "nome": "Gerundino",
+        "endereco": "Rua Substantivo, 78, Bairro Predicado, Mesóclise-AC",
+        "emails": [
+            "gerundino@gmail.com"
+        ],
+        "cargo": "Linguista",
+        "jornada": 44,
+        "salario": 8000
+       },
+       {
+        "nome": "Chicó",
+        "endereco": "Rua Eurico, 50, João Pessoa, PB, Apt 28 Bloco C",
+        "emails": [],
+        "cargo": "Developer",
+        "jornada": 20,
+        "salario": 15000
+       }
+    ]
+}
