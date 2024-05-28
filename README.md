@@ -32,6 +32,6 @@ Para entrega desta atividade utilize o readme.md de um repositório remoto, crie
 Na terceira etapa tira um print-screen da sua tela onde contem o banco de dados não relacional, a imagem deve conter sua identificação na conta do Google Firestore e os itens solicitados na atividade. 
 
 Print-screen:
-![image](https://github.com/ThomasJanoski/nosql-bancodedados/assets/69875687/fc88dd44-aefe-4594-a356-92c96e17885a)
+![image](https://github.com/ThomasJanoski/nosql-bancodedados/assets/69875687/80cfd3b8-2865-4b99-ba1e-e7d6ef8946c8)
 
 RA: 235751
